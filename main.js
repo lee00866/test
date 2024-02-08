@@ -1,5 +1,5 @@
 // 1. Declare a variable name and assign it as your name. Print the variable to the console.
-console.log('Adesh');
+console.log("It is working");
 
 // 2. Add a new fruit to the fruits array using the push method.
 
